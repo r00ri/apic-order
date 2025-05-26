@@ -9,7 +9,7 @@ x-ibm-configuration:
   properties:
     target-url:
       value: https://sample-api.us-east-a.apiconnect.automation.ibm.com
-      description: The url of the target service
+      description: The URL of the target service
       encoded: false
   cors:
     enabled: true

@@ -2,7 +2,7 @@
   "openapi": "3.0.1",
   "info": {
     "title": "Order",
-    "description": "view and track your orders and deliveries.",
+    "description": "View and track your orders and deliveries.",
     "termsOfService": "https://github.com/ibm-apiconnect/sample-orders-api",
     "contact": {
       "name": "IBM Corporation",

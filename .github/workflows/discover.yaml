@@ -7,7 +7,7 @@ env:
   # platform_api_prefix is not required to change for ApiConnect on Cloud
   PLATFORM_API_PREFIX: platform-api
   PROVIDER_ORG: api-connect-dq
-  API_FILES: orders.yaml
+  API_FILES: gmail.json
   #API_FOLDERS: APIfolder
 
 jobs:
